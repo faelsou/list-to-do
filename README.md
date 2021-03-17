@@ -1,15 +1,14 @@
-# To-do
+# To-do list
 
 O projeto foi criado com Angular [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
 
 ## Development server
 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
+Iniciar com `ng serve`o projeto deve navegar no `http://localhost:4200/`.
 ## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+criar component `ng generate component component-name` para gerar novo componente voce pode tambem usar `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
